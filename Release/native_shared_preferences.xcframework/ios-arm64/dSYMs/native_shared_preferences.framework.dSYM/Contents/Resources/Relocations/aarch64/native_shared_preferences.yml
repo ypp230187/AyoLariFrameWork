@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yudhapratamaputra/Downloads/Development/Research/ayolari_framework/build/ios/framework/Release/iphoneos/Release-iphoneos/native_shared_preferences/native_shared_preferences.framework/native_shared_preferences'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x3C6C, size: 0x8, addend: 0x0, symName: _native_shared_preferencesVersionString, symObjAddr: 0x0, symBinAddr: 0x4F20, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x3CA0, size: 0x8, addend: 0x0, symName: _native_shared_preferencesVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4F58, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x3CDC, size: 0x8, addend: 0x0, symName: '+[NativeSharedPreferencesPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x97, offset: 0x3D4C, size: 0x8, addend: 0x0, symName: '+[NativeSharedPreferencesPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0xE5, offset: 0x3D9A, size: 0x8, addend: 0x0, symName: '___55+[NativeSharedPreferencesPlugin registerWithRegistrar:]_block_invoke', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x458 }
+  - { offsetInCU: 0x23B, offset: 0x3EF0, size: 0x8, addend: 0x0, symName: '+[NativeSharedPreferencesPlugin getAllPrefs]', symObjAddr: 0x50C, symBinAddr: 0x450C, symSize: 0x1EC }
+  - { offsetInCU: 0x2D6, offset: 0x3F8B, size: 0x8, addend: 0x0, symName: '+[NativeSharedPreferencesPlugin mapDateToMilliseconds:mappedDictionary:]', symObjAddr: 0x6F8, symBinAddr: 0x46F8, symSize: 0x40C }
+...
